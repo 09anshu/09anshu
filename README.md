@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Anshu Aman</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-[![trophy](https://github-profile-trophy.vercel.app/?username=09anshu)](https://github.com/ryo-ma/github-profile-trophy)
+
 - 👨‍💻 All of my projects are available at [https://github.com/09anshu](https://github.com/09anshu)
 
 - 📫 How to reach me **anshuaman1809@gmail.com**
 
 - ⚡ Fun fact **Take me with you or I am gonna hire you.**
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=09anshu)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
