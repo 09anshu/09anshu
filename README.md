@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Anshu  and I'm a II nd year UG student, from Chennai</h2>
+<h2 align="left">Hi 👋! My name is Anshu  and I'm a IInd year UG student, from Chennai</h2>
 
 ###
 
